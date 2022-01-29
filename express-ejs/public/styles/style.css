@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.main h1 {
+  color: red;
+  font-size: 4rem;
+  background-color: yellow;
+  padding: 4rem;
+  border-radius: 10rem;
+  border: red solid 1px;
+}
+
+.footer h2 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  background-color: darkcyan;
+}
